@@ -12,4 +12,4 @@ We use data from John Hopkins University originating from Statens Serum Institut
 
 The data can be downloaded from this Kaggle:
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv 
-We have converted the csv-file to a xlsx-file before uploading it to our repository. 
+
