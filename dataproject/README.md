@@ -10,6 +10,9 @@ This **loades the datasets**: **covid_19_data.csv**
 
 We use data from John Hopkins University originating from Statens Serum Institut. 
 
-The data can be downloaded from this Kaggle:
+The data can be downloaded from this Kaggle:    
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv 
-
+Package to run the same code:    
+pip install plotly==4.6.0
+or:    
+conda install -c plotly plotly=4.6.0
