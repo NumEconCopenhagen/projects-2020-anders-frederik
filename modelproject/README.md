@@ -1,6 +1,11 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **A Cournot competition model**.
+We model a simple Cournot competition model and find the equilibrium quantities and profits via numerical optimization.
+We vizualize the results by parametrizations in three different ways:
+1. Choose parameters manually in the functions and print them.
+2. Plot the best response functions in quantity-space.
+3. Plot the equilibrium values as a function of a parameter (the elasticity of substitution)
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
