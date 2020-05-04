@@ -7,6 +7,6 @@ We vizualize the results by parametrizations in three different ways:
 2. Plot the best response functions in quantity-space.
 3. Plot the equilibrium values as a function of a parameter (the elasticity of substitution)
 
-The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
+The **results** of the project can be seen from running [model_project_v2.ipynb](model_project_v2.ipynb).
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
