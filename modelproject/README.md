@@ -1,7 +1,7 @@
 # Model analysis project
 
 Our project is titled **A Cournot competition model with product differentiation**.
-We model a simple Cournot competition model with product differentiation and find the equilibrium quantities and profits via numerical optimization.
+We model a simple Cournot competition model with product differentiation and find the equilibrium quantities, price and profit via numerical optimization.
 We vizualize the results by parametrizations in three different ways:
 1. Parametrizations.
 2. Plot the best response functions in quantity-space.
