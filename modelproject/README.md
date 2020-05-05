@@ -3,7 +3,7 @@
 Our project is titled **A Cournot competition model with product differentiation**.
 We model a simple Cournot competition model with product differentiation and find the equilibrium quantities and profits via numerical optimization.
 We vizualize the results by parametrizations in three different ways:
-1. Choose parameters manually in the functions and print them.
+1. Parametrizations.
 2. Plot the best response functions in quantity-space.
 3. Plot the equilibrium values as a function of a parameter (the elasticity of substitution)
 
